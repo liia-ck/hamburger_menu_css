@@ -1,10 +1,9 @@
 :root {
-  --primary-color: rgba(92, 136, 150, 0.6);
-  --primary-color-btn: rgba(50, 94, 107, 0.8);
-  --secondary-color: rgba(229, 148, 0, 0.9);
-  --overlay-color: rgba(24, 39, 51, 0.9);
+  --primary-color: rgba(28, 134, 129, 0.65); 	
+  --primary-color-btn: rgba(46, 139, 87, 0.6); 
+  --secondary-color: rgba(214, 229, 0, 0.9);
+  --overlay-color: rgba(2, 41, 20, 0.87); 
   --menu-speed: 0.75s;
-  height: 2000px;
 }
 
 * {
